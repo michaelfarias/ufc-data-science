@@ -1,0 +1,1 @@
+Descomprima o arquivo zip.
