@@ -1,1 +1,1 @@
-Descomprima o arquivo zip.
+Descomprima o arquivo rar.
